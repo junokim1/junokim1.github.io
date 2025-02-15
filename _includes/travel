@@ -10,7 +10,7 @@
     {{ travel.title }}
   </h2>
 
-  {% for travel in travel.assignments %}
+  {% for travel in travel.details %}
     <div class="item">
       <div class="meta">
         <div class="upper-row">
