@@ -138,9 +138,7 @@ projects:
   # intro: >
   assignments:
   - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
+    time: 2018
 
 skills:
   title: Skills
