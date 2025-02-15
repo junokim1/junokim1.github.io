@@ -15,7 +15,7 @@ sidebar:
   # Sidebar links
   email: junokim@g.ecc.u-tokyo.ac.jp
   phone: +81-90-7579-6665
-  timezone: # Japan/Tokyo # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  timezone: Japan/Tokyo # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: # https://example.com/ # Include the full website URL, including "http://" or "https://".
   linkedin:
@@ -99,7 +99,7 @@ publications:
 
   - title: "Hessian Based Smoothing Splines for Manifold Learning"
     link: "https://arxiv.org/abs/2302.05025"
-    authors: <b>Juno Kim</b>, Otto van Koert. <i>preprint</i>.
+    authors: <b>Juno Kim</b>, Otto van Koert. <i>Preprint</i>.
 
   - title: "Reeb Flows without Simple Global Surfaces of Section"
     link: "https://arxiv.org/abs/2104.03728"
