@@ -73,6 +73,14 @@ publications:
     link: "https://arxiv.org/abs/2410.08633"
     authors: <b>Juno Kim</b>, Taiji Suzuki. <b>ICLR 2025 Oral</b>.
 
+  - title: "Optimality and Adaptivity of Deep Neural Features for Instrumental Variable Regression"
+    link: "https://arxiv.org/abs/2501.04898"
+    authors: <b>Juno Kim</b>, Dimitri Meunier, Arthur Gretton, Taiji Suzuki, Zhu Li. <b>ICLR 2025</b>.
+
+  - title: "Transformers are Minimax Optimal Nonparametric In-Context Learners"
+    link: "https://arxiv.org/abs/2408.12186"
+    authors: <b>Juno Kim</b>, Tai Nakamaki, Taiji Suzuki. <b>NeurIPS 2024</b> and <i>ICML 2024 TF2M Workshop</i>, <b>Best Paper Award</b>.
+
 experiences:
   title: Experiences
   info:
