@@ -1,0 +1,25 @@
+{% assign travel = site.data.data.travel %}
+{% if travel %}
+<section class="section travel-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ travel.title }}
+  </h2>
+
+  {% for travel in travel.assignments %}
+    <div class="item">
+      <div class="meta">
+        <div class="upper-row">
+          <h3 class="travel-title">{{ travel.title }}</h3>
+          <div class="time">{{ travel.time }}</div>
+        </div><!--//upper-row-->
+      </div><!--//meta-->
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
