@@ -12,10 +12,12 @@
 
   {% for project in projects.assignments %}
     <div class="item">
-        <h3 class="project-title">{{ project.title }}</h3>
-        <div class="time">{{ project.time }}</div>
-    </div><!--//item-->
-
+      <div class="meta">
+        <div class="upper-row">
+          <h3 class="project-title">{{ project.title }}</h3>
+          <div class="time">{{ project.time }}</div>
+        </div><!--//upper-row-->
+      </div><!--//meta-->
     </div><!--//item-->
   {% endfor %}
 
