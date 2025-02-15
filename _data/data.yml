@@ -139,13 +139,3 @@ projects:
   assignments:
   - title: Velocity
     time: 2018 - 2022
-
-skills:
-  title: Skills
-
-  toolset:
-  - name: Python & Django
-    level: 98%
-
-  - name: Sketch & Photoshop
-    level: 60%
