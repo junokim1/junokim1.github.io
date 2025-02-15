@@ -86,7 +86,7 @@ publications:
   - title: "Transformers Provably Solve Parity Efficiently with Chain of Thought"
     link: "https://arxiv.org/abs/2410.08633"
     authors: <b>Juno Kim</b>, Taiji Suzuki
-    conference: ICLR 2025, <span style="color: red">Oral presentation</span>
+    conference: "ICLR 2025, <span style="color: red">Oral presentation</span>"
 
 experiences:
   title: Experiences
