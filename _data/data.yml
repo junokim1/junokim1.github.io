@@ -64,7 +64,13 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Hello! I am a Master's student at the University of Tokyo, supervised by Prof. Taiji Suzuki. I am also associated with RIKEN Center for Advanced Intelligence Project. My research interests lie in the mathematical foundations of modern deep learning, focusing on nonconvex optimization, dynamical analysis and statistical guarantees for neural networks, as well as exploring emergent capabilities of foundation models. Before moving to Japan, I received my B.Sc. in Mathematics and Statistics at Seoul National University as Valedictorian of '23. You can contact me at: junokim (at) g.ecc.u-tokyo.ac.jp
+    Hello! I am a Master's student at the University of Tokyo, supervised by Prof. Taiji Suzuki.
+    I am also associated with RIKEN Center for Advanced Intelligence Project.
+    My research interests lie in the mathematical foundations of modern deep learning,
+    focusing on nonconvex optimization, dynamical analysis and statistical guarantees for neural networks,
+    as well as exploring emergent capabilities of foundation models.
+    Before moving to Japan, I received my B.Sc. in Mathematics and Statistics at Seoul National University
+    as Valedictorian of '23. You can contact me at: junokim (at) g.ecc.u-tokyo.ac.jp
     
 education:
   title: Education
