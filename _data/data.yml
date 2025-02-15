@@ -105,17 +105,6 @@ publications:
     link: "https://arxiv.org/abs/2104.03728"
     authors: <b>Juno Kim</b>, Yonghwan Kim, Otto van Koert. <i>Involve</i>, 15(5), pp. 813–842, 2022.
 
-experiences:
-  title: Experience
-  info:
-  - role: Part-time Researcher
-    time: 2023 - 2025
-    company: RIKEN Center for Advanced Intelligence Project
-
-  - role: Undergraduate Research Intern
-    time: 2019 - 2020, 2022 - 2023
-    company: Seoul National University
-
 education:
   title: Education
   info:
@@ -160,3 +149,18 @@ projects:
 
   - title: Gold Prize, College Mathematics Competition
     time: "2019"
+
+experiences:
+  title: Experience
+  info:
+  - role: Reviewer
+    time: 
+    company: AISTATS'24, ICML'24, NeurIPS'24, ICLR'25, ICML'25
+    
+  - role: Part-time Researcher
+    time: 2023 - 2025
+    company: RIKEN Center for Advanced Intelligence Project
+
+  - role: Undergraduate Research Intern
+    time: 2019 - 2020, 2022 - 2023
+    company: Seoul National University
