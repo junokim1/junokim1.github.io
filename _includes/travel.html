@@ -10,6 +10,12 @@
     {{ travel.title }}
   </h2>
 
+  {% if travel.intro %}
+  <div class="intro">
+      <p>{{ travel.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
+
   {% for travel in travel.details %}
     <div class="item">
       <div class="meta">
