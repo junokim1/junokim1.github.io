@@ -32,7 +32,7 @@ sidebar:
   mastodon:
   hackerrank:
   leetcode:
-  pdf: "<a href="junokim1.github.io/master/CV.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>" # Add a PDF link here if you want to include a PDF custom version in your resume.
+  pdf: <a href="master/CV.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a> # Add a PDF link here if you want to include a PDF custom version in your resume.
 
 career-profile:
   title: About Me
