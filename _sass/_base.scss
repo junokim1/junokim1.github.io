@@ -226,17 +226,17 @@ p {
     margin-bottom: 5px;
     color: darken($theme-color, 15%);
   }
+  .time {
+      color: rgba(256, 256, 256, 0.6);
+      font-weight: 500;
+      margin-bottom: 0px;
+  }
   .projects-section {
     .intro {
       margin-bottom: 30px;
     }
     .item {
       margin-bottom: 15px;
-    }
-    .time {
-      color: rgba(256, 256, 256, 0.6);
-      font-weight: 500;
-      margin-bottom: 0px;
     }
   }
   .oss-section {
