@@ -64,12 +64,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Hello! I am a Master's student at the University of Tokyo, supervised by Prof. Taiji Suzuki. I am also associated with RIKEN Center for Advanced Intelligence Project. My research interests lie in the mathematical foundations of modern deep learning, focusing on nonconvex optimization, dynamical analysis and statistical guarantees for neural networks, as well as exploring emergent capabilities of foundation models. Before moving to Japan, I received my B.Sc. in Mathematics and Statistics at Seoul National University as Valedictorian of '23. You can contact me at: junokim (at) g.ecc.u-tokyo.ac.jp
     
 education:
   title: Education
