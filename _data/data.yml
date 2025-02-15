@@ -68,6 +68,10 @@ publications:
     link: "https://arxiv.org/abs/2502.01694"
     authors: <b>Juno Kim</b>, Denny Wu, Jason Lee, Taiji Suzuki. <i>Under review</i>.
   #  conference: <i>Under review</i>
+
+  - title: "Hessian-guided Perturbed Wasserstein Gradient Flows for Escaping Saddle Points"
+    link:
+    authors: Naoya Yamamoto, <b>Juno Kim</b>, Taiji Suzuki. <i>Under review</i>.
     
   - title: "Transformers Provably Solve Parity Efficiently with Chain of Thought"
     link: "https://arxiv.org/abs/2410.08633"
