@@ -15,7 +15,7 @@ sidebar:
   # Sidebar links
   email: junokim@g.ecc.u-tokyo.ac.jp
   phone: +81-90-7579-6665
-  timezone: Japan/Tokyo # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  timezone: # Japan/Tokyo # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: # https://example.com/ # Include the full website URL, including "http://" or "https://".
   linkedin:
@@ -108,20 +108,13 @@ publications:
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
-    details: |
-      Describe your role here
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here
-        - Bullet point
-        - Bullet point
+  - role: Part-time Researcher
+    time: 2023 - 2025
+    company: RIKEN Center for Advanced Intelligence Project, Deep Learning Theory Team
+
+  - role: Undergraduate Research Intern
+    time: 2019 - 2020, 2022 - 2023
+    company: Seoul National University
 
 education:
   title: Education
@@ -135,7 +128,9 @@ education:
     # university: Seoul, South Korea
     time: 2018 - 2023
     details: |
-      <p>B.S. in Statistics<br>B.S. in Mathematics<br>Graduated Valedictorian of the College of Natural Sciences (GPA 4.28/4.3)</p>
+      <p>B.S. in Statistics<br>
+      B.S. in Mathematics<br>
+      Graduated Valedictorian of the College of Natural Sciences (GPA 4.28/4.3)</p>
 
 
 projects:
