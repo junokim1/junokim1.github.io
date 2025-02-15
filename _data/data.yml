@@ -70,9 +70,9 @@ education:
     university: Seoul, South Korea
     time: 2018 - 2023
     details: |
-      B.S. in Statistics
-      B.S. in Mathematics
-      Graduated Valedictorian of the College of Natural Sciences (GPA 4.28/4.3)
+      <p>B.S. in Statistics</p>
+      <p>B.S. in Mathematics</p>
+      <p>Graduated Valedictorian of the College of Natural Sciences (GPA 4.28/4.3)</p>
 
 publications:
   title: Publications
