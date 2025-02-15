@@ -69,9 +69,10 @@ education:
   - degree: Seoul National University
     university: Seoul, South Korea
     time: 2018 - 2023
-    details:
+    details: |
       B.S. in Statistics
       B.S. in Mathematics
+      Graduated Valedictorian of the College of Natural Sciences (GPA 4.28/4.3)
 
 publications:
   title: Publications
