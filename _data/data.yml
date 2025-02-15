@@ -32,7 +32,7 @@ sidebar:
   mastodon:
   hackerrank:
   leetcode:
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  pdf: https://github.com/junokim1/junokim1.github.io/blob/master/assets/CV.pdf # Add a PDF link here if you want to include a PDF custom version in your resume.
 
 career-profile:
   title: About Me
