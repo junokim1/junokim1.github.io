@@ -81,6 +81,26 @@ publications:
     link: "https://arxiv.org/abs/2408.12186"
     authors: <b>Juno Kim</b>, Tai Nakamaki, Taiji Suzuki. <b>NeurIPS 2024</b> and <i>ICML 2024 TF2M Workshop</i>, <b>Best Paper Award</b>.
 
+  - title: "Transformers Learn Nonlinear Features In Context: Nonconvex Mean-field Dynamics on the Attention Landscape"
+    link: "https://arxiv.org/abs/2402.01258"
+    authors: <b>Juno Kim</b>, Taiji Suzuki. <b>ICML 2024 Oral</b>.
+
+  - title: "Symmetric Mean-field Langevin Dynamics for Distributional Minimax Problems"
+    link: "https://arxiv.org/abs/2312.01127"
+    authors: <b>Juno Kim</b>, Kakei Yamamoto, Kazusato Oko, Zhuoran Yang, Taiji Suzuki. <b>ICLR 2024 Spotlight</b>.
+
+  - title: "t3-Variational Autoencoder: Learning Heavy-tailed Data with Student's t and Power Divergence"
+    link: "https://arxiv.org/abs/2312.01133"
+    authors: <b>Juno Kim</b>, Jaehyuk Kwon, Mincheol Cho, Hyunjong Lee, Joong-Ho Won. <b>ICLR 2024</b>.
+
+  - title: "Hessian Based Smoothing Splines for Manifold Learning"
+    link: "https://arxiv.org/abs/2302.05025"
+    authors: <b>Juno Kim</b>, Otto van Koert. <i>preprint</i>.
+
+  - title: "Reeb Flows without Simple Global Surfaces of Section"
+    link: "https://arxiv.org/abs/2104.03728"
+    authors: <b>Juno Kim</b>, Yonghwan Kim, Otto van Koert. <i>Involve</i>, 15(5), pp. 813–842, 2022.
+
 experiences:
   title: Experiences
   info:
