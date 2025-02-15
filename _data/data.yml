@@ -164,3 +164,10 @@ experiences:
   - role: Undergraduate Research Intern
     time: 2019 - 2020, 2022 - 2023
     company: Seoul National University
+
+travel:
+  title: Travel
+  # intro: >
+  details:
+  - title: Doctoral Course (DC1) Research Fellowship, JSPS
+    time: declined
