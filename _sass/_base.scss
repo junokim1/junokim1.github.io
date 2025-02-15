@@ -77,7 +77,7 @@ p {
 
   .avatar {
     //used for profile image
-    max-width: 100px;
+    max-width: 150px;
     margin-bottom: 15px;
     border: 0px solid #fff;
     border-radius: 100%;
@@ -99,14 +99,14 @@ p {
     }
   }
   .container-block {
-    padding: 30px;
+    padding: 20px;
   }
   .container-block-title {
     text-transform: none;
     font-size: 16px;
     font-weight: bold;
     margin-top: 0;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
   }
   .degree {
     font-size: 14px;
@@ -141,7 +141,7 @@ p {
   .languages-list {
     margin-bottom: 0;
     li {
-      margin-bottom: 10px;
+      margin-bottom: 5px;
       &:last-child {
         margin-bottom: 0;
       }
@@ -151,7 +151,7 @@ p {
   .interests-list {
     margin-bottom: 0;
     li {
-      margin-bottom: 10px;
+      margin-bottom: 5px;
       &:last-child {
         margin-bottom: 0;
       }
@@ -163,7 +163,7 @@ p {
   grid-column: span 7;
   order: $resume-order;
   background: #fff;
-  padding: 60px;
+  padding: 40px;
   .section-title {
     text-transform: none;
     font-size: 20px;
@@ -171,10 +171,10 @@ p {
     color: darken($theme-color, 15%);
     position: relative;
     margin-top: 0;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
   }
   .section {
-    margin-bottom: 60px;
+    margin-bottom: 40px;
   }
 
   .experiences-section,
