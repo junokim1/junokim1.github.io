@@ -161,10 +161,39 @@ travel:
   
   details:
   - title: <b>2025</b>
+  - title: International Conference on Learning Representations, Singapore
+    time: Apr 23 - 29
   - title: Workshop on Functional Inference and Machine Intelligence, Okinawa, Japan
     time: Mar 1 - 2
+  - title: (Invited Talk) Vector Institute, Toronto, Canada (online)
+    time: Jan 24
   - title: <b>2024</b>
-  - title: Neural Information Processing Systems, Vancouver,  Canada
+  - title: Neural Information Processing Systems, Vancouver, Canada
     time: Dec 9 - 16
-  - title: Simons Institute, Berkeley, CA, USA
+  - title: (Visiting Student) Simons Institute, Berkeley, CA, USA
     time: Nov 11 - Dec 9
+  - title: Information-Based Induction Sciences Workshop, Saitama, Japan
+    time: Nov 4 - 7
+  - title: Japanese Joint Statistical Meeting, Tokyo, Japan
+    time: Sep 1 - 5
+  - title: (Research Visit) UCL Gatsby Computational Neuroscience Unit, London, UK
+    time: Aug 5 - 19
+  - title: International Conference on Machine Learning, Vienna, Austria
+    time: Jul 21 - 27
+  - title: International Conference on Learning Representations, Vienna, Austria
+    time: May 7 - 11
+  - title: Workshop on Functional Inference and Machine Intelligence, Bristol, UK
+    time: Mar 25 - 27
+  - title: Tokyo Deep Learning Workshop, Tokyo, Japan
+    time: Mar 18 - 20
+  - title: Machine Learning Summer School, Okinawa, Japan
+    time: Mar 4 - 15
+  - title: <b>2023</b>
+  - title: (Visiting Student) NYU Center for Data Science, New York, USA
+    time: Dec 16 - 19
+  - title: Neural Information Processing Systems, New Orleans, USA
+    time: Dec 10 - 16
+  - title: Information-Based Induction Sciences Workshop, Kyushu, Japan
+    time: Oct 29 - Nov 1
+  - title: Japanese Joint Statistical Meeting, Kyoto, Japan
+    time: Sep 3 - 7
