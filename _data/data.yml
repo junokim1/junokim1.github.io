@@ -62,17 +62,15 @@ education:
   title: Education
   info:
   - degree: University of Tokyo
-    university: Tokyo, Japan
+    # university: Tokyo, Japan
     time: 2023 - 2025
     details: M.S. in Mathematical Informatics
 
   - degree: Seoul National University
-    university: Seoul, South Korea
+    # university: Seoul, South Korea
     time: 2018 - 2023
     details: |
-      <p>B.S. in Statistics</p>
-      <p>B.S. in Mathematics</p>
-      <p>Graduated Valedictorian of the College of Natural Sciences (GPA 4.28/4.3)</p>
+      <p>B.S. in Statistics<br>B.S. in Mathematics<br>Graduated Valedictorian of the College of Natural Sciences (GPA 4.28/4.3)</p>
 
 publications:
   title: Publications
