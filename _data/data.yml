@@ -154,9 +154,10 @@ experiences:
 
 travel:
   title: Travel
-  intro: I love attending conferences, traveling to new places and meeting people who share my interests.
-  My hobbies are weight training, recreational math and playing the guitar.
-  I am fluent in Korean, English and Japanese and learning German and French.
+  intro: | 
+    I love attending conferences, traveling to new places and meeting people who share my interests.
+    My hobbies are weight training, recreational math and playing the guitar.
+    I am fluent in Korean, English and Japanese and learning German and French.
   
   details:
   - title: Doctoral Course (DC1) Research Fellowship, JSPS
