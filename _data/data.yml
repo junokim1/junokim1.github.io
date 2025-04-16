@@ -95,6 +95,11 @@ publications:
 education:
   title: Education
   info:
+  - degree: University of California, Berkeley
+    # university: Berkeley, CA
+    time: 2025 - current
+    details: Ph.D. student in EECS
+    
   - degree: University of Tokyo
     # university: Tokyo, Japan
     time: 2023 - 2025
