@@ -104,7 +104,9 @@ education:
   - degree: University of Tokyo
     # university: Tokyo, Japan
     time: 2023 - 2025
-    details: M.S. in Mathematical Informatics
+    details: |
+      <p>M.S. in Mathematical Informatics<br>
+      <b>Thesis:</b> Statistical and Dynamical Analysis of Transformers: In-Context Learning and Chain-of-Thought Reasoning<br>
 
   - degree: Seoul National University
     # university: Seoul, South Korea
