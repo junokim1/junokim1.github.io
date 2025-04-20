@@ -106,7 +106,7 @@ education:
     time: 2023 - 2025
     details: |
       <p><b>M.S.</b> in Mathematical Informatics<br>
-      <i>Thesis: Statistical and Dynamical Analysis of Transformers: In-Context Learning and Chain-of-Thought Reasoning</i><br>
+      <i>Thesis: Statistical and Dynamical Analysis of Transformers: In-Context Learning and Chain-of-Thought Reasoning</i></p>
 
   - degree: Seoul National University
     # university: Seoul, South Korea
@@ -114,8 +114,8 @@ education:
     details: |
       <p><b>B.S.</b> in Statistics<br>
       <b>B.S.</b> in Mathematics<br>
-      Graduated Valedictorian of the College of Natural Sciences (GPA 4.28/4.3)</p>
-      <i>Thesis: Token and Corpus Imputation in Statistical Language Modeling via Semantic Embeddings</i><br>
+      Graduated Valedictorian of the College of Natural Sciences (GPA 4.28/4.3)<br>
+      <i>Thesis: Token and Corpus Imputation in Statistical Language Modeling via Semantic Embeddings</i></p>
 
 
 projects:
