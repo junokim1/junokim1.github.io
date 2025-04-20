@@ -105,16 +105,17 @@ education:
     # university: Tokyo, Japan
     time: 2023 - 2025
     details: |
-      <p>M.S. in Mathematical Informatics<br>
-      <b>Thesis:</b> Statistical and Dynamical Analysis of Transformers: In-Context Learning and Chain-of-Thought Reasoning<br>
+      <p><b>M.S.</b> in Mathematical Informatics<br>
+      <i>Thesis: Statistical and Dynamical Analysis of Transformers: In-Context Learning and Chain-of-Thought Reasoning</i><br>
 
   - degree: Seoul National University
     # university: Seoul, South Korea
     time: 2018 - 2023
     details: |
-      <p>B.S. in Statistics<br>
-      B.S. in Mathematics<br>
+      <p><b>B.S.</b> in Statistics<br>
+      <b>B.S.</b> in Mathematics<br>
       Graduated Valedictorian of the College of Natural Sciences (GPA 4.28/4.3)</p>
+      <i>Thesis: Token and Corpus Imputation in Statistical Language Modeling via Semantic Embeddings</i><br>
 
 
 projects:
