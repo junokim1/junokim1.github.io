@@ -115,13 +115,16 @@ education:
       <p><b>B.S.</b> in Statistics<br>
       <b>B.S.</b> in Mathematics<br>
       Graduated Valedictorian of the College of Natural Sciences (GPA 4.28/4.3)<br>
-      <i>Thesis: Token and Corpus Imputation in Statistical Language Modeling via Semantic Embeddings</i></p>
+      <i>Thesis: Token and Corpus Imputation in Statistical Language Modeling via Semantic Embeddings, Hessian Based Smoothing Splines for Manifold Learning</i></p>
 
 
 projects:
   title: Awards
   # intro: >
   assignments:
+  - title: Dean's Award for Research Achievement, IST, University of Tokyo
+    time: 2025
+  
   - title: Doctoral Course (DC1) Research Fellowship, JSPS
     time: declined
 
