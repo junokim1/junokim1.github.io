@@ -51,6 +51,14 @@ publications:
 #  intro: |
 #    You can list your publications in this section.
   papers:
+  - title:
+    link:
+    authors: *equal contribution
+    
+  - title: "Mirror Mean-Field Langevin Dynamics"
+    link: "https://arxiv.org/abs/2505.02621"
+    authors: Anming Gu*, <b>Juno Kim</b>*. <i>Under review</i>.
+  
   - title: "Metastable Dynamics of Chain-of-Thought Reasoning:
   Provable Benefits of Search, RL and Distillation"
     link: "https://arxiv.org/abs/2502.01694"
@@ -83,7 +91,7 @@ publications:
 
   - title: "t3-Variational Autoencoder: Learning Heavy-tailed Data with Student's t and Power Divergence"
     link: "https://arxiv.org/abs/2312.01133"
-    authors: <b>Juno Kim</b>, Jaehyuk Kwon, Mincheol Cho, Hyunjong Lee, Joong-Ho Won. <b>ICLR 2024</b>.
+    authors: <b>Juno Kim</b>*, Jaehyuk Kwon*, Mincheol Cho*, Hyunjong Lee, Joong-Ho Won. <b>ICLR 2024</b>.
 
   - title: "Hessian Based Smoothing Splines for Manifold Learning"
     link: "https://arxiv.org/abs/2302.05025"
