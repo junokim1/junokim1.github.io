@@ -48,12 +48,10 @@ career-profile:
     
 publications:
   title: Publications
-#  intro: |
+  intro: |
+    <sub>* Equal contribution</sub>
 #    You can list your publications in this section.
   papers:
-  - title:
-    link:
-    authors: *equal contribution
     
   - title: "Mirror Mean-Field Langevin Dynamics"
     link: "https://arxiv.org/abs/2505.02621"
