@@ -54,7 +54,7 @@ publications:
     
   - title: "Mirror Mean-Field Langevin Dynamics"
     link: "https://arxiv.org/abs/2505.02621"
-    authors: Anming Gu*, <b>Juno Kim</b>*. <i>Under review</i>.
+    authors: Anming Gu*, <b>Juno Kim</b>*. <i>Under review</i>. (*equal contribution)
   
   - title: "Metastable Dynamics of Chain-of-Thought Reasoning:
   Provable Benefits of Search, RL and Distillation"
@@ -97,10 +97,6 @@ publications:
   - title: "Reeb Flows without Simple Global Surfaces of Section"
     link: "https://arxiv.org/abs/2104.03728"
     authors: <b>Juno Kim</b>, Yonghwan Kim, Otto van Koert. <i>Involve</i>, 15(5), pp. 813–842, 2022.
-
-  - title: ""
-    link: ""
-    authors: *Equal contribution
 
 education:
   title: Education
