@@ -48,8 +48,7 @@ career-profile:
     
 publications:
   title: Publications
-  intro: |
-    <sub>* Equal contribution</sub>
+#  intro: |
 #    You can list your publications in this section.
   papers:
     
@@ -98,6 +97,10 @@ publications:
   - title: "Reeb Flows without Simple Global Surfaces of Section"
     link: "https://arxiv.org/abs/2104.03728"
     authors: <b>Juno Kim</b>, Yonghwan Kim, Otto van Koert. <i>Involve</i>, 15(5), pp. 813–842, 2022.
+
+  - title: ""
+    link: ""
+    authors: *Equal contribution
 
 education:
   title: Education
