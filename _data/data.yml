@@ -51,10 +51,14 @@ publications:
 #  intro: |
 #    You can list your publications in this section.
   papers:
+
+  - title: "Alignment as Distribution Learning: Your Preference Model is Explicitly a Language Model"
+    link:
+    authors: Jihun Yun*, <b>Juno Kim</b>*, Jongho Park, Junhyuck Kim, Jongha Jon Ryu, Jaewoong Cho, Kwang-Sung Jun. <i>Under review</i>. (*equal contribution)
     
   - title: "Mirror Mean-Field Langevin Dynamics"
     link: "https://arxiv.org/abs/2505.02621"
-    authors: Anming Gu*, <b>Juno Kim</b>*. <i>Under review</i>. (*equal contribution)
+    authors: Anming Gu*, <b>Juno Kim</b>*. <i>Under review</i>.
   
   - title: "Metastable Dynamics of Chain-of-Thought Reasoning:
   Provable Benefits of Search, RL and Distillation"
@@ -163,7 +167,7 @@ experiences:
 
   - role: Research Intern
     time: 2025
-    company: KRAFTON, Deep Learning Division
+    company: KRAFTON AI
     
   - role: Part-time Researcher
     time: 2023 - 2025
