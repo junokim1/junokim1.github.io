@@ -163,7 +163,7 @@ experiences:
   info:
   - role: Reviewer
     time: 
-    company: AISTATS'24, ICML'24, NeurIPS'24, ICLR'25, ICML'25
+    company: AISTATS'24, ICML'24, NeurIPS'24, ICLR'25 (Notable Reviewer), ICML'25, NeurIPS'25
 
   - role: Research Intern
     time: 2025
@@ -186,6 +186,8 @@ travel:
   
   details:
   - title: <b>2025</b>
+  - title NLP Colloquium, Japan <b>(invited talk, online)</b>
+    time: May 21
   - title: International Conference on Learning Representations, Singapore
     time: Apr 23 - 29
   - title: Flatiron Institute, New York, USA <b>(invited talk)</b>
