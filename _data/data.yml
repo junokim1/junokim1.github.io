@@ -67,7 +67,7 @@ publications:
   #  conference: <i>Under review</i>
 
   - title: "Hessian-guided Perturbed Wasserstein Gradient Flows for Escaping Saddle Points"
-    link:
+    link: "https://arxiv.org/abs/2509.16974"
     authors: Naoya Yamamoto, <b>Juno Kim</b>, Taiji Suzuki. <b>NeurIPS 2025</b>.
     
   - title: "Transformers Provably Solve Parity Efficiently with Chain of Thought"
