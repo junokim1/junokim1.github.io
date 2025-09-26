@@ -10,7 +10,7 @@ sidebar:
   # Profile information
   name: Juno Kim
   tagline: Ph.D. student at UC Berkeley EECS
-  avatar: junolarge.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  avatar: dldsmall.png # junolarge.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: junokim@berkeley.edu
@@ -68,7 +68,7 @@ publications:
 
   - title: "Hessian-guided Perturbed Wasserstein Gradient Flows for Escaping Saddle Points"
     link:
-    authors: Naoya Yamamoto, <b>Juno Kim</b>, Taiji Suzuki. <i>Under review</i>.
+    authors: Naoya Yamamoto, <b>Juno Kim</b>, Taiji Suzuki. <b>NeurIPS 2025</b>.
     
   - title: "Transformers Provably Solve Parity Efficiently with Chain of Thought"
     link: "https://arxiv.org/abs/2410.08633"
