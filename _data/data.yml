@@ -161,6 +161,13 @@ projects:
 experiences:
   title: Experience
   info:
+  - role: Invited Talks
+    time:
+    company: NLP Colloquium, Japan (online), hosted by Sho Yokoi / May 21, 2025<br>
+    Flatiron Institute, Center for Computational Mathematics, New York, hosted by Denny Wu / Mar 14, 2025<br>
+    Vector Institute, Toronto, hosted by Anastasis Kratsios / Jan 24, 2025
+    
+  
   - role: Reviewer
     time: 
     company: AISTATS'24, ICML'24, NeurIPS'24, ICLR'25 (Notable Reviewer), ICML'25, NeurIPS'25
@@ -186,6 +193,10 @@ travel:
   
   details:
   - title: <b>2025</b>
+  - title: International Conference on Machine Learning, Vancouver, Canada
+    time: July 13 - 19
+  - title: Conference on Learning Theory, Lyon, France
+    time: June 30 – July 4
   - title: NLP Colloquium, Japan <b>(invited talk, online)</b>
     time: May 21
   - title: International Conference on Learning Representations, Singapore
