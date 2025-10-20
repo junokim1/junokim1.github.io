@@ -163,9 +163,7 @@ experiences:
   info:
   - role: Invited Talks
     time:
-    company: <p>NLP Colloquium, Japan (online), hosted by Sho Yokoi / May 21, 2025<br>
-    Flatiron Institute, Center for Computational Mathematics, New York, hosted by Denny Wu / Mar 14, 2025<br>
-    Vector Institute, Toronto, hosted by Anastasis Kratsios / Jan 24, 2025</p>
+    company: 
     
   
   - role: Reviewer
