@@ -54,7 +54,7 @@ publications:
 
   - title: "Alignment as Distribution Learning: Your Preference Model is Explicitly a Language Model"
     link: "https://arxiv.org/abs/2506.01523"
-    authors: Jihun Yun*, <b>Juno Kim</b>*, Jongho Park, Junhyuck Kim, Jongha Jon Ryu, Jaewoong Cho, Kwang-Sung Jun. <i>Under review</i>. (*equal contribution)
+    authors: Jihun Yun*, <b>Juno Kim</b>*, Jongho Park, Junhyuck Kim, Jongha Jon Ryu, Jaewoong Cho, Kwang-Sung Jun. <b>ICML 2025 MoFA workshop</b>. (*equal contribution)
     
   - title: "Mirror Mean-Field Langevin Dynamics"
     link: "https://arxiv.org/abs/2505.02621"
@@ -80,7 +80,7 @@ publications:
 
   - title: "Transformers are Minimax Optimal Nonparametric In-Context Learners"
     link: "https://arxiv.org/abs/2408.12186"
-    authors: <b>Juno Kim</b>, Tai Nakamaki, Taiji Suzuki. <b>NeurIPS 2024</b> and <i>ICML 2024 TF2M Workshop</i>, <b>Best Paper Award</b>.
+    authors: <b>Juno Kim</b>, Tai Nakamaki, Taiji Suzuki. <b>NeurIPS 2024</b> and <b>ICML 2024 TF2M Workshop</b>, <b>Best Paper Award</b>.
 
   - title: "Transformers Learn Nonlinear Features In Context: Nonconvex Mean-field Dynamics on the Attention Landscape"
     link: "https://arxiv.org/abs/2402.01258"
