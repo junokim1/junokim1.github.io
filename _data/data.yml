@@ -52,6 +52,10 @@ publications:
 #    You can list your publications in this section.
   papers:
 
+  - title: "Coverage Improvement and Fast Convergence of On-policy Preference Learning"
+    link: "https://arxiv.org/abs/2601.08421"
+    authors: <b>Juno Kim</b>, Jihun Yun, Jason D. Lee, Kwang-Sung Jun. <i>Under review</i>.
+
   - title: "Alignment as Distribution Learning: Your Preference Model is Explicitly a Language Model"
     link: "https://arxiv.org/abs/2506.01523"
     authors: Jihun Yun*, <b>Juno Kim</b>*, Jongho Park, Junhyuck Kim, Jongha Jon Ryu, Jaewoong Cho, Kwang-Sung Jun. <b>ICML 2025 MoFA Workshop</b>. (*equal contribution)
