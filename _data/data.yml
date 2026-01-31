@@ -37,9 +37,9 @@ sidebar:
 career-profile:
   title: About Me
   summary: |
-    I am a first-year Ph.D. student in Electrical Engineering and Computer Sciences at the University of California, Berkeley,
+    I am a first-year Ph.D. student in Computer Science at the University of California, Berkeley,
     advised by Profs. Jason D. Lee and Song Mei. My interests lie in the <b>mathematical foundations of deep learning</b>,
-    with a focus on nonconvex optimization, dynamical analysis, and statistical guarantees for neural networks.
+    with a focus on nonconvex optimization, dynamical analysis, and computational-statistical guarantees for neural networks.
     I am also interested in understanding emergent capabilities of foundation models such as chain-of-thought reasoning.
     
     Previously, I received my B.Sc. in Mathematics and Statistics at Seoul National University as Valedictorian of '23,
