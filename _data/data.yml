@@ -52,6 +52,10 @@ publications:
 #    You can list your publications in this section.
   papers:
 
+  - title: "Sharp Capacity Scaling of Spectral Optimizers in Learning Associative Memory"
+    link: "https://arxiv.org/abs/2603.26554"
+    authors: <b>Juno Kim</b>*, Eshaan Nichani*, Denny Wu, Alberto Bietti, Jason D. Lee. <i>Under review</i>.
+
   - title: "Coverage Improvement and Fast Convergence of On-policy Preference Learning"
     link: "https://arxiv.org/abs/2601.08421"
     authors: <b>Juno Kim</b>, Jihun Yun, Jason D. Lee, Kwang-Sung Jun. <i>Under review</i>.
