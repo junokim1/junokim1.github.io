@@ -194,47 +194,49 @@ travel:
   
   details:
   - title: <b>2025</b>
-  - title: International Conference on Machine Learning, Vancouver, Canada
+  - title: NeurIPS (San Diego, CA)
+    time: Dec 2 - 7
+  - title: ICML (Vancouver, Canada)
     time: July 13 - 19
-  - title: Conference on Learning Theory, Lyon, France
+  - title: COLT (Lyon, France)
     time: June 30 – July 4
-  - title: NLP Colloquium, Japan <b>(invited talk, online)</b>
+  - title: <b>Invited talk:</b> NLP Colloquium (Japan; online)
     time: May 21
-  - title: International Conference on Learning Representations, Singapore
+  - title: ICLR (Singapore)
     time: Apr 23 - 29
-  - title: Flatiron Institute, New York, USA <b>(invited talk)</b>
+  - title: <b>Invited talk:</b> Flatiron Institute (New York, NY)
     time: Mar 11 - 15
-  - title: Workshop on Functional Inference and Machine Intelligence, Okinawa, Japan
+  - title: FIMI Workshop (Okinawa, Japan)
     time: Mar 1 - 2
-  - title: Vector Institute, Toronto, Canada <b>(invited talk, online)</b>
+  - title: <b>Invited talk:</b> Vector Institute (Toronto, Canada; online talk)
     time: Jan 24
   - title: <b>2024</b>
-  - title: Neural Information Processing Systems, Vancouver, Canada
+  - title: NeurIPS (Vancouver, Canada)
     time: Dec 9 - 16
-  - title: Simons Institute, Berkeley, USA <b>(visiting student)</b>
+  - title: <b>Visiting student:</b> Simons Institute (Berkeley, CA)
     time: Nov 11 - Dec 9
-  - title: Information-Based Induction Sciences Workshop, Saitama, Japan
+  - title: IBIS Workshop (Saitama, Japan)
     time: Nov 4 - 7
-  - title: Japanese Joint Statistical Meeting, Tokyo, Japan
+  - title: Japanese Joint Statistical Meeting (Tokyo, Japan)
     time: Sep 1 - 5
-  - title: UCL Gatsby Computational Neuroscience Unit, London, UK <b>(research visit)</b>
+  - title: <b>Research visit:</b> UCL Gatsby Computational Neuroscience Unit (London, UK)
     time: Aug 5 - 19
-  - title: International Conference on Machine Learning, Vienna, Austria
+  - title: ICML (Vienna, Austria)
     time: Jul 21 - 27
-  - title: International Conference on Learning Representations, Vienna, Austria
+  - title: ICLR (Vienna, Austria)
     time: May 7 - 11
-  - title: Workshop on Functional Inference and Machine Intelligence, Bristol, UK
+  - title: FIMI Workshop (Bristol, UK)
     time: Mar 25 - 27
-  - title: Tokyo Deep Learning Workshop, Tokyo, Japan
+  - title: Tokyo Deep Learning Workshop (Tokyo, Japan)
     time: Mar 18 - 20
-  - title: Machine Learning Summer School, Okinawa, Japan
+  - title: Machine Learning Summer School (Okinawa, Japan)
     time: Mar 4 - 15
   - title: <b>2023</b>
-  - title: NYU Center for Data Science, New York, USA <b>(visiting student)</b>
+  - title: <b>Visiting student:</b> NYU Center for Data Science (New York, NY)
     time: Dec 16 - 19
-  - title: Neural Information Processing Systems, New Orleans, USA
+  - title: NeurIPS (New Orleans, LA)
     time: Dec 10 - 16
-  - title: Information-Based Induction Sciences Workshop, Kyushu, Japan
+  - title: IBIS Workshop (Kyushu, Japan)
     time: Oct 29 - Nov 1
-  - title: Japanese Joint Statistical Meeting, Kyoto, Japan
+  - title: Japanese Joint Statistical Meeting (Kyoto, Japan)
     time: Sep 3 - 7
