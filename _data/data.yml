@@ -72,13 +72,16 @@ publications:
 #    You can list your publications in this section.
   papers:
 
+  - title: "Sharp Capacity Thresholds in Linear Associative Memory: From Winner-Take-All to Listwise Retrieval"
+    authors: Nicholas Barnfield, <b>Juno Kim</b>, Eshaan Nichani, Jason D. Lee, Yue M. Lu. <i>Preprint</i>.
+
   - title: "Sharp Capacity Scaling of Spectral Optimizers in Learning Associative Memory"
     link: "https://arxiv.org/abs/2603.26554"
     authors: <b>Juno Kim</b>*, Eshaan Nichani*, Denny Wu, Alberto Bietti, Jason D. Lee. <i>Under review</i>.
 
   - title: "Coverage Improvement and Fast Convergence of On-policy Preference Learning"
     link: "https://arxiv.org/abs/2601.08421"
-    authors: <b>Juno Kim</b>, Jihun Yun, Jason D. Lee, Kwang-Sung Jun. <i>Under review</i>.
+    authors: <b>Juno Kim</b>, Jihun Yun, Jason D. Lee, Kwang-Sung Jun. <b>ICML 2026</b>.
 
   - title: "Alignment as Distribution Learning: Your Preference Model is Explicitly a Language Model"
     link: "https://arxiv.org/abs/2506.01523"
@@ -86,7 +89,7 @@ publications:
     
   - title: "Mirror Mean-Field Langevin Dynamics"
     link: "https://arxiv.org/abs/2505.02621"
-    authors: Anming Gu*, <b>Juno Kim</b>*. <i>Under review</i>.
+    authors: Anming Gu*, <b>Juno Kim</b>*. <b>ICML 2026</b>.
   
   - title: "Metastable Dynamics of Chain-of-Thought Reasoning:
   Provable Benefits of Search, RL and Distillation"
@@ -188,9 +191,10 @@ projects:
 experiences:
   title: Experience
   info:  
-  - role: Reviewer
-    time: 
-    company: AISTATS'24, ICML'24, NeurIPS'24, ICLR'25 (Notable Reviewer), ICML'25, NeurIPS'25
+
+  - role: Google DeepMind
+    time: 2025 (current)
+    company: Student Researcher
 
   - role: KRAFTON AI
     time: 2025
@@ -203,6 +207,10 @@ experiences:
   - role: Seoul National University
     time: 2019 - 2020, 2022 - 2023
     company: Undergraduate Research Intern
+
+  - role: Reviewer
+    time: 
+    company: AISTATS'24, ICML'24,25,26, NeurIPS'24,25,26, ICLR'25 (Notable Reviewer),26
 
 travel:
   title: Travel
