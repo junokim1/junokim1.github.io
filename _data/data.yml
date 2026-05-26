@@ -221,6 +221,15 @@ travel:
   
   details:
   - title: <b>2025</b>
+  - title: <b>Invited talk:</b> Flatiron Institute (New York, NY)
+    time: May 15
+  - title: <b>Invited talk:</b> University of Pennsylvania (Philadelphia, PA)
+    time: Mar 14
+  - title: <b>Invited talk:</b> Kempner Institute, Harvard University (Cambridge, MA)
+    time: Mar 13
+  - title: <b>Invited talk:</b> Carnegie Mellon University (Pittsburgh, PA)
+    time: Mar 11
+  - title: <b>2025</b>
   - title: NeurIPS (San Diego, CA)
     time: Dec 2 - 7
   - title: ICML (Vancouver, Canada)
