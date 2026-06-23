@@ -73,6 +73,7 @@ publications:
   papers:
 
   - title: "Sharp Capacity Thresholds in Linear Associative Memory: From Winner-Take-All to Listwise Retrieval"
+    link: "https://arxiv.org/abs/2605.05189"
     authors: Nicholas Barnfield, <b>Juno Kim</b>, Eshaan Nichani, Jason D. Lee, Yue M. Lu. <i>Preprint</i>.
 
   - title: "Sharp Capacity Scaling of Spectral Optimizers in Learning Associative Memory"
@@ -82,6 +83,10 @@ publications:
   - title: "Coverage Improvement and Fast Convergence of On-policy Preference Learning"
     link: "https://arxiv.org/abs/2601.08421"
     authors: <b>Juno Kim</b>, Jihun Yun, Jason D. Lee, Kwang-Sung Jun. <b>ICML 2026</b>.
+
+  - title: "Provable Benefits of RLVR over SFT for Reasoning Models: Learning to Backtrack Efficiently"
+    link: "https://arxiv.org/abs/2606.22938"
+    authors: Stanley Wei, <b>Juno Kim</b>. <b>ICML 2026</b>.
 
   - title: "Alignment as Distribution Learning: Your Preference Model is Explicitly a Language Model"
     link: "https://arxiv.org/abs/2506.01523"
