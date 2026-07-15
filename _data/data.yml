@@ -219,67 +219,30 @@ experiences:
 
 travel:
   title: Talks and Visits
-  
   details:
-  - title: <b>2026</b>
-  - title: KAIST AI (Seoul, South Korea) Host: Chulhee Yun
+  - title: KAIST AI (Host: Chulhee Yun)
     time: July 14, 2026
   - title: ICML 2026 HiLD Workshop, Oral presentation (Seoul, South Korea)
     time: July 10, 2026
-  - title: Tsinghua University (Beijing, China; online) Host: Kaifeng Lyu
+  - title: Tsinghua University (Host: Kaifeng Lyu) (online)
     time: May 15, 2026
-  - title: Flatiron Institute (New York, NY) Host: Denny Wu
-    time: May 15
-  - title: University of Pennsylvania (Philadelphia, PA) Host: Yuxin Chen
-    time: May 14
-  - title: Kempner Institute, Harvard University (Cambridge, MA) Host: Bingbin Liu
-    time: May 13
-  - title: Carnegie Mellon University (Pittsburgh, PA) Host: Andrej Risteski
-    time: May 11
-  - title: <b>2025</b>
-  - title: NeurIPS (San Diego, CA)
-    time: Dec 2 - 7
-  - title: ICML (Vancouver, Canada)
-    time: July 13 - 19
-  - title: COLT (Lyon, France)
-    time: June 30 – July 4
-  - title: <b>Invited talk:</b> NLP Colloquium (Japan; online)
-    time: May 21
-  - title: ICLR (Singapore)
-    time: Apr 23 - 29
-  - title: <b>Invited talk:</b> Flatiron Institute (New York, NY)
-    time: Mar 11 - 15
-  - title: FIMI Workshop (Okinawa, Japan)
-    time: Mar 1 - 2
-  - title: <b>Invited talk:</b> Vector Institute (Toronto, Canada; online talk)
-    time: Jan 24
-  - title: <b>2024</b>
-  - title: NeurIPS (Vancouver, Canada)
-    time: Dec 9 - 16
-  - title: <b>Visiting student:</b> Simons Institute (Berkeley, CA)
-    time: Nov 11 - Dec 9
-  - title: IBIS Workshop (Saitama, Japan)
-    time: Nov 4 - 7
-  - title: Japanese Joint Statistical Meeting (Tokyo, Japan)
-    time: Sep 1 - 5
-  - title: <b>Research visit:</b> UCL Gatsby Computational Neuroscience Unit (London, UK)
-    time: Aug 5 - 19
-  - title: ICML (Vienna, Austria)
-    time: Jul 21 - 27
-  - title: ICLR (Vienna, Austria)
-    time: May 7 - 11
-  - title: FIMI Workshop (Bristol, UK)
-    time: Mar 25 - 27
-  - title: Tokyo Deep Learning Workshop (Tokyo, Japan)
-    time: Mar 18 - 20
-  - title: Machine Learning Summer School (Okinawa, Japan)
-    time: Mar 4 - 15
-  - title: <b>2023</b>
-  - title: <b>Visiting student:</b> NYU Center for Data Science (New York, NY)
-    time: Dec 16 - 19
-  - title: NeurIPS (New Orleans, LA)
-    time: Dec 10 - 16
-  - title: IBIS Workshop (Kyushu, Japan)
-    time: Oct 29 - Nov 1
-  - title: Japanese Joint Statistical Meeting (Kyoto, Japan)
-    time: Sep 3 - 7
+  - title: Flatiron Institute (Host: Alberto Bietti)
+    time: May 15, 2026
+  - title: University of Pennsylvania (Host: Yuxin Chen)
+    time: May 14, 2026
+  - title: Kempner Institute, Harvard University (Host: Bingbin Liu)
+    time: May 13, 2026
+  - title: Carnegie Mellon University (Host: Andrej Risteski)
+    time: May 11, 2026
+  - title: NLP Colloquium, Japan (Host: Sho Yokoi) (online)
+    time: May 21, 2025
+  - title: Flatiron Institute (Host: Denny Wu)
+    time: Mar 15, 2025
+  - title: Vector Institute (Host: Anastasis Kratsios) (online)
+    time: Jan 24, 2025
+  - title: [Visiting student] Simons Institute (Berkeley, CA)
+    time: Nov 11 - Dec 9, 2024
+  - title: [Research visit] UCL Gatsby Computational Neuroscience Unit (London, UK)
+    time: Aug 5 - 19, 2024
+  - title: [Visiting student] NYU Center for Data Science (New York, NY)
+    time: Dec 16 - 19, 2023
