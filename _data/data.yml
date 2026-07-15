@@ -217,45 +217,37 @@ experiences:
     company: AISTATS'24, ICML'24,25,26 (Gold Reviewer), NeurIPS'24,25,26, ICLR'25 (Notable Reviewer),26
 
 travel:
-  title: Travel
-  intro: | 
-    I love attending conferences, traveling to new places and meeting people who share my interests.
-    My hobbies are weight training, recreational math and playing the guitar.
-    I am fluent in Korean, English and Japanese and learning German and French.
-  
+  title: Talks and Visits
   details:
-  - title: <b>2026</b>
-  - title: <b>Invited talk:</b> Flatiron Institute (New York, NY)
-    time: May 15
-  - title: KAIST AI (Host: Chulhee Yun)
+  - title: "KAIST AI (Host: Chulhee Yun)"
     time: July 14, 2026
-  - title: [Oral] ICML 2026 HiLD Workshop (Seoul, South Korea)
+  - title: "[Oral] ICML 2026 HiLD Workshop (Seoul, South Korea)"
     time: July 10, 2026
-  - title: Tsinghua University (Host: Kaifeng Lyu) (online)
+  - title: "Tsinghua University (Host: Kaifeng Lyu) (online)"
     time: May 15, 2026
-  - title: Flatiron Institute (Host: Alberto Bietti)
+  - title: "Flatiron Institute (Host: Alberto Bietti)"
     time: May 15, 2026
-  - title: University of Pennsylvania (Host: Yuxin Chen)
+  - title: "University of Pennsylvania (Host: Yuxin Chen)"
     time: May 14, 2026
-  - title: Kempner Institute, Harvard University (Host: Bingbin Liu)
+  - title: "Kempner Institute, Harvard University (Host: Bingbin Liu)"
     time: May 13, 2026
-  - title: Carnegie Mellon University (Host: Andrej Risteski)
+  - title: "Carnegie Mellon University (Host: Andrej Risteski)"
     time: May 11, 2026
-  - title: NLP Colloquium, Japan (Host: Sho Yokoi) (online)
+  - title: "NLP Colloquium, Japan (Host: Sho Yokoi) (online)"
     time: May 21, 2025
-  - title: [Oral] ICLR 2025 (Singapore)
+  - title: "[Oral] ICLR 2025 (Singapore)"
     time: April 26, 2025
-  - title: Flatiron Institute (Host: Denny Wu)
+  - title: "Flatiron Institute (Host: Denny Wu)"
     time: Mar 15, 2025
-  - title: Vector Institute (Host: Anastasis Kratsios) (online)
+  - title: "Vector Institute (Host: Anastasis Kratsios) (online)"
     time: Jan 24, 2025
-  - title: [Research Visit] Simons Institute for the Theory of Computing
+  - title: "[Research Visit] Simons Institute for the Theory of Computing"
     time: Nov 11 - Dec 9, 2024
-  - title: [Oral] ICML 2024 TF2M Workshop (Vienna, Austria)
+  - title: "[Oral] ICML 2024 TF2M Workshop (Vienna, Austria)"
     time: Jul 27, 2024
-  - title: [Oral] ICML 2024 (Vienna, Austria)
+  - title: "[Oral] ICML 2024 (Vienna, Austria)"
     time: Jul 23, 2024
-  - title: [Research Visit] UCL Gatsby Computational Neuroscience Unit (Host: Arthur Gretton)
+  - title: "[Research Visit] UCL Gatsby Computational Neuroscience Unit (Host: Arthur Gretton)"
     time: Aug 5 - 19, 2024
-  - title: [Research Visit] NYU Center for Data Science
+  - title: "[Research Visit] NYU Center for Data Science"
     time: Dec 16 - 19, 2023
