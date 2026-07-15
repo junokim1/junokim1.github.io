@@ -195,8 +195,7 @@ projects:
 
 experiences:
   title: Experience
-  info:  
-
+  info: 
   - role: Google DeepMind
     time: 2026
     company: Student Researcher
@@ -215,11 +214,11 @@ experiences:
 
   - role: Reviewer
     time: 
-    company: AISTATS'24, ICML'24,25,26, NeurIPS'24,25,26, ICLR'25 (Notable Reviewer),26
+    company: AISTATS'24, ICML'24,25,26 (Gold Reviewer), NeurIPS'24,25,26, ICLR'25 (Notable Reviewer),26
 
 travel:
   title: Talks and Visits
-  # intro: >
+  # intro: |
   details:
   - title: KAIST AI (Host: Chulhee Yun)
     time: July 14, 2026
