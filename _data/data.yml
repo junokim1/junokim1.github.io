@@ -71,6 +71,9 @@ publications:
 #  intro: |
 #    You can list your publications in this section.
   papers:
+  - title: "When Does Online Imitation Learning Help in LLM Post-Training? The Role of (Non-)Realizability Beyond Horizon"
+    link: "https://arxiv.org/abs/2606.30445"
+    authors: Huaqing Zhang, Jingchu Gai, <b>Juno Kim</b>, Bingbin Liu, Andrej Risteski. <i>Under review</i>.
 
   - title: "Sharp Capacity Thresholds in Linear Associative Memory: From Winner-Take-All to Listwise Retrieval"
     link: "https://arxiv.org/abs/2605.05189"
