@@ -217,9 +217,16 @@ experiences:
     company: AISTATS'24, ICML'24,25,26 (Gold Reviewer), NeurIPS'24,25,26, ICLR'25 (Notable Reviewer),26
 
 travel:
-  title: Talks and Visits
-  # intro: |
+  title: Travel
+  intro: | 
+    I love attending conferences, traveling to new places and meeting people who share my interests.
+    My hobbies are weight training, recreational math and playing the guitar.
+    I am fluent in Korean, English and Japanese and learning German and French.
+  
   details:
+  - title: <b>2026</b>
+  - title: <b>Invited talk:</b> Flatiron Institute (New York, NY)
+    time: May 15
   - title: KAIST AI (Host: Chulhee Yun)
     time: July 14, 2026
   - title: [Oral] ICML 2026 HiLD Workshop (Seoul, South Korea)
