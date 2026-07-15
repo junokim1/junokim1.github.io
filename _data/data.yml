@@ -222,7 +222,7 @@ travel:
   details:
   - title: KAIST AI (Host: Chulhee Yun)
     time: July 14, 2026
-  - title: ICML 2026 HiLD Workshop, Oral presentation (Seoul, South Korea)
+  - title: [Oral] ICML 2026 HiLD Workshop (Seoul, South Korea)
     time: July 10, 2026
   - title: Tsinghua University (Host: Kaifeng Lyu) (online)
     time: May 15, 2026
@@ -236,13 +236,19 @@ travel:
     time: May 11, 2026
   - title: NLP Colloquium, Japan (Host: Sho Yokoi) (online)
     time: May 21, 2025
+  - title: [Oral] ICLR 2025 (Singapore)
+    time: April 26, 2025
   - title: Flatiron Institute (Host: Denny Wu)
     time: Mar 15, 2025
   - title: Vector Institute (Host: Anastasis Kratsios) (online)
     time: Jan 24, 2025
-  - title: [Visiting student] Simons Institute (Berkeley, CA)
+  - title: [Visit] Simons Institute for the Theory of Computing
     time: Nov 11 - Dec 9, 2024
-  - title: [Research visit] UCL Gatsby Computational Neuroscience Unit (London, UK)
+  - title: [Oral] ICML 2024 TF2M Workshop (Vienna, Austria)
+    time: Jul 27, 2024
+  - title: [Oral] ICML 2024 (Vienna, Austria)
+    time: Jul 23, 2024
+  - title: [Visit] UCL Gatsby Computational Neuroscience Unit
     time: Aug 5 - 19, 2024
-  - title: [Visiting student] NYU Center for Data Science (New York, NY)
+  - title: [Visit] NYU Center for Data Science
     time: Dec 16 - 19, 2023
