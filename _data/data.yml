@@ -198,7 +198,7 @@ experiences:
   info:  
 
   - role: Google DeepMind
-    time: 2025 (current)
+    time: 2026
     company: Student Researcher
 
   - role: KRAFTON AI
@@ -218,22 +218,24 @@ experiences:
     company: AISTATS'24, ICML'24,25,26, NeurIPS'24,25,26, ICLR'25 (Notable Reviewer),26
 
 travel:
-  title: Travel
-  intro: | 
-    I love attending conferences, traveling to new places and meeting people who share my interests.
-    My hobbies are weight training, recreational math and playing the guitar.
-    I am fluent in Korean, English and Japanese and learning German and French.
+  title: Talks and Visits
   
   details:
   - title: <b>2026</b>
-  - title: <b>Invited talk:</b> Flatiron Institute (New York, NY)
+  - title: KAIST AI (Seoul, South Korea) Host: Chulhee Yun
+    time: July 14, 2026
+  - title: ICML 2026 HiLD Workshop, Oral presentation (Seoul, South Korea)
+    time: July 10, 2026
+  - title: Tsinghua University (Beijing, China; online) Host: Kaifeng Lyu
+    time: May 15, 2026
+  - title: Flatiron Institute (New York, NY) Host: Denny Wu
     time: May 15
-  - title: <b>Invited talk:</b> University of Pennsylvania (Philadelphia, PA)
-    time: Mar 14
-  - title: <b>Invited talk:</b> Kempner Institute, Harvard University (Cambridge, MA)
-    time: Mar 13
-  - title: <b>Invited talk:</b> Carnegie Mellon University (Pittsburgh, PA)
-    time: Mar 11
+  - title: University of Pennsylvania (Philadelphia, PA) Host: Yuxin Chen
+    time: May 14
+  - title: Kempner Institute, Harvard University (Cambridge, MA) Host: Bingbin Liu
+    time: May 13
+  - title: Carnegie Mellon University (Pittsburgh, PA) Host: Andrej Risteski
+    time: May 11
   - title: <b>2025</b>
   - title: NeurIPS (San Diego, CA)
     time: Dec 2 - 7
