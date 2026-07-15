@@ -195,7 +195,7 @@ projects:
 
 experiences:
   title: Experience
-  info: 
+  info:
   - role: Google DeepMind
     time: 2026
     company: Student Researcher
@@ -248,7 +248,7 @@ travel:
     time: Jul 27, 2024
   - title: [Oral] ICML 2024 (Vienna, Austria)
     time: Jul 23, 2024
-  - title: [Visit] UCL Gatsby Computational Neuroscience Unit
+  - title: [Visit] UCL Gatsby Computational Neuroscience Unit (Host: Arthur Gretton)
     time: Aug 5 - 19, 2024
   - title: [Visit] NYU Center for Data Science
     time: Dec 16 - 19, 2023
