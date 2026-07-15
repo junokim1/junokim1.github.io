@@ -219,6 +219,7 @@ experiences:
 
 travel:
   title: Talks and Visits
+  # intro: >
   details:
   - title: KAIST AI (Host: Chulhee Yun)
     time: July 14, 2026
