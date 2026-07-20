@@ -40,9 +40,9 @@ career-profile:
     I am a first-year Ph.D. student in Computer Science at the University of California, Berkeley,
     advised by Profs. Jason D. Lee and Song Mei. My interests lie in the <b>mathematical foundations of deep learning</b>,
     with a focus on nonconvex optimization, dynamical analysis, and computational-statistical guarantees for neural networks.
-    I am also interested in understanding emergent capabilities of foundation models such as chain-of-thought reasoning.
+    I am also interested in understanding and harnessing the mathematical reasoning capabilities of foundation models.
 
-    I will be interning at Google DeepMind during the summer of 2026, hosted by Hossein Mobahi.
+    I am interning at Google DeepMind during summer 2026, hosted by Hossein Mobahi.
     
     Previously, I received my B.Sc. in Mathematics and Statistics at Seoul National University as Valedictorian of '23,
     and my M.Sc. in Mathematical Informatics at the University of Tokyo advised by Prof. Taiji Suzuki,
@@ -164,6 +164,28 @@ education:
       Graduated Valedictorian of the College of Natural Sciences (GPA 4.28/4.3)<br>
       <i>Thesis: Token and Corpus Imputation in Statistical Language Modeling via Semantic Embeddings, Hessian Based Smoothing Splines for Manifold Learning</i></p>
 
+experiences:
+  title: Experience
+  info:
+  - role: Google DeepMind
+    time: 2026
+    company: Student Researcher
+
+  - role: KRAFTON AI
+    time: 2025
+    company: Deep Learning Div. Core Research Team, Intern
+    
+  - role: RIKEN Center for Advanced Intelligence Project
+    time: 2023 - 2025
+    company: Part-time Researcher
+
+  - role: Seoul National University
+    time: 2019 - 2020, 2022 - 2023
+    company: Undergraduate Research Intern
+
+  - role: Reviewer
+    time: 
+    company: AISTATS'24, ICML'24,25,26 (Gold Reviewer), NeurIPS'24,25,26, ICLR'25 (Notable Reviewer),26
 
 projects:
   title: Awards
@@ -195,29 +217,6 @@ projects:
 
   - title: Gold Prize, College Mathematics Competition
     time: "2019"
-
-experiences:
-  title: Experience
-  info:
-  - role: Google DeepMind
-    time: 2026
-    company: Student Researcher
-
-  - role: KRAFTON AI
-    time: 2025
-    company: Deep Learning Div. Core Research Team, Intern
-    
-  - role: RIKEN Center for Advanced Intelligence Project
-    time: 2023 - 2025
-    company: Part-time Researcher
-
-  - role: Seoul National University
-    time: 2019 - 2020, 2022 - 2023
-    company: Undergraduate Research Intern
-
-  - role: Reviewer
-    time: 
-    company: AISTATS'24, ICML'24,25,26 (Gold Reviewer), NeurIPS'24,25,26, ICLR'25 (Notable Reviewer),26
 
 travel:
   title: Talks and Visits
