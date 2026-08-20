@@ -75,7 +75,7 @@ publications:
     link: "https://arxiv.org/abs/2606.30445"
     authors: Huaqing Zhang, Jingchu Gai, <b>Juno Kim</b>, Bingbin Liu, Andrej Risteski. <i>Under review</i>.
 
-  - title: "Sharp Capacity Thresholds in Linear Associative Memory: From Winner-Take-All to Listwise Retrieval"
+  - title: "Sharp Capacity Thresholds in Linear Associative Memory: From Top-1 Retrieval to Tail-Average Learning"
     link: "https://arxiv.org/abs/2605.05189"
     authors: Nicholas Barnfield, <b>Juno Kim</b>, Eshaan Nichani, Jason D. Lee, Yue M. Lu. <i>Preprint</i>.
 
