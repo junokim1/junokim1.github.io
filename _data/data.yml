@@ -37,7 +37,7 @@ sidebar:
 career-profile:
   title: About Me
   summary: |
-    I am a first-year Ph.D. student in Computer Science at the University of California, Berkeley,
+    I am a second-year Ph.D. student in Computer Science at the University of California, Berkeley,
     advised by Profs. Jason D. Lee and Song Mei. My interests lie in the <b>mathematical foundations of deep learning</b>,
     with a focus on nonconvex optimization, dynamical analysis, and computational-statistical guarantees for neural networks.
     I am also interested in understanding and harnessing the mathematical reasoning capabilities of foundation models.
@@ -52,6 +52,10 @@ selected-publications:
 #  intro: |
 #    You can list your publications in this section.
   papers:
+
+  - title: "Principal Component Regression Dominates all Monotone Spectral Filters for Linear Regression"
+    link: "https://arxiv.org/abs/2609.39440"
+    authors: <b>Juno Kim</b>, Hengyu Fu, Peter Bartlett, Jason D. Lee, Jingfeng Wu. <i>Preprint</i>.
 
   - title: "Sharp Capacity Scaling of Spectral Optimizers in Learning Associative Memory"
     link: "https://arxiv.org/abs/2603.26554"
@@ -70,6 +74,10 @@ publications:
 #  intro: |
 #    You can list your publications in this section.
   papers:
+  - title: "Principal Component Regression Dominates all Monotone Spectral Filters for Linear Regression"
+    link: "https://arxiv.org/abs/2609.39440"
+    authors: <b>Juno Kim</b>, Hengyu Fu, Peter Bartlett, Jason D. Lee, Jingfeng Wu. <i>Preprint</i>.
+  
   - title: "When Does Online Imitation Learning Help in LLM Post-Training? The Role of (Non-)Realizability Beyond Horizon"
     link: "https://arxiv.org/abs/2606.30445"
     authors: Huaqing Zhang, Jingchu Gai, <b>Juno Kim</b>, Bingbin Liu, Andrej Risteski. <i>Under review</i>.
