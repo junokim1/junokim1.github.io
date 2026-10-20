@@ -59,7 +59,7 @@ selected-publications:
 
   - title: "Sharp Capacity Scaling of Spectral Optimizers in Learning Associative Memory"
     link: "https://arxiv.org/abs/2603.26554"
-    authors: <b>Juno Kim</b>*, Eshaan Nichani*, Denny Wu, Alberto Bietti, Jason D. Lee. <i>Under review</i>.
+    authors: <b>Juno Kim</b>*, Eshaan Nichani*, Denny Wu, Alberto Bietti, Jason D. Lee. <b>NeurIPS 2026</b>.
 
   - title: "Transformers Provably Solve Parity Efficiently with Chain of Thought"
     link: "https://arxiv.org/abs/2410.08633"
