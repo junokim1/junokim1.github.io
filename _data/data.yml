@@ -80,7 +80,7 @@ publications:
   
   - title: "When Does Online Imitation Learning Help in LLM Post-Training? The Role of (Non-)Realizability Beyond Horizon"
     link: "https://arxiv.org/abs/2606.30445"
-    authors: Huaqing Zhang, Jingchu Gai, <b>Juno Kim</b>, Bingbin Liu, Andrej Risteski. <i>Under review</i>.
+    authors: Huaqing Zhang, Jingchu Gai, <b>Juno Kim</b>, Bingbin Liu, Andrej Risteski. <b>NeurIPS 2026</b>.
 
   - title: "Sharp Capacity Thresholds in Linear Associative Memory: From Top-1 Retrieval to Tail-Average Learning"
     link: "https://arxiv.org/abs/2605.05189"
@@ -88,7 +88,7 @@ publications:
 
   - title: "Sharp Capacity Scaling of Spectral Optimizers in Learning Associative Memory"
     link: "https://arxiv.org/abs/2603.26554"
-    authors: <b>Juno Kim</b>*, Eshaan Nichani*, Denny Wu, Alberto Bietti, Jason D. Lee. <i>Under review</i>.
+    authors: <b>Juno Kim</b>*, Eshaan Nichani*, Denny Wu, Alberto Bietti, Jason D. Lee. <b>NeurIPS 2026</b>.
 
   - title: "Coverage Improvement and Fast Convergence of On-policy Preference Learning"
     link: "https://arxiv.org/abs/2601.08421"
